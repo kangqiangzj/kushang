@@ -1,0 +1,176 @@
+{
+	"status" : 1,
+	"message" : "success",
+	"data1" : [
+		{
+			"title" : "潮流饰品",
+			"type" : [
+				{"name" : "路易威登"},
+				{"name" : "杰尼亚"},
+				{"name" : "爱马仕"},
+				{"name" : "香奈儿"},
+				{"name" : "陌森"},
+				{"name" : "雷朋"},
+				{"name" : "COACH"},
+				{"name" : "GUCCI"},
+				{"name" : "配件"},
+				{"name" : "饰品"},
+				{"name" : "眼镜框"},
+				{"name" : "太阳镜"},
+				{"name" : "鞋靴"},
+				{"name" : "腰带"},
+				{"name" : "服饰"},
+				{"name" : "服饰"},
+				{"name" : "创意钱包"},
+				{"name" : "奢侈箱包"}
+			]
+		},
+		{
+			"title" : "钟表礼品",
+			"type" : [
+				{"name" : "鲜花绿植"},
+				{"name" : "婚庆用品"},
+				{"name" : "创意礼品"},
+				{"name" : "礼品定制"},
+				{"name" : "古董把玩"},
+				{"name" : "收藏品"},
+				{"name" : "礼品文具"},
+				{"name" : "工艺礼品"},
+				{"name" : "美妆礼品"},
+				{"name" : "军刀"}
+			]
+		},
+		{
+			"title" : "珠宝首饰",
+			"type" : [
+				{"name" : "胸针"},
+				{"name" : "发饰"},
+				{"name" : "吊坠"},
+				{"name" : "戒指"},
+				{"name" : "手镯"},
+				{"name" : "项链"},
+				{"name" : "耳环"},
+				{"name" : "珍珠"},
+				{"name" : "把件"},
+				{"name" : "木手串"},
+				{"name" : "铂金"},
+				{"name" : "彩宝"},
+				{"name" : "玛瑙"},
+				{"name" : "水晶"},
+				{"name" : "玉石"},
+				{"name" : "银饰"},
+				{"name" : "翡翠"},
+				{"name" : "钻石"},
+				{"name" : "时尚饰品"},
+				{"name" : "K金"},
+				{"name" : "黄金"},
+				{"name" : "妈咪包"}
+			]
+		},
+		{
+			"title" : "功能箱包",
+			"type" : [
+				{"name" : "书包"},
+				{"name" : "旅行配件"},
+				{"name" : "登山包"},
+				{"name" : "胸包"},
+				{"name" : "腰包"},
+				{"name" : "相机包"},
+				{"name" : "休闲运动包"},
+				{"name" : "电脑包"},
+				{"name" : "旅行包"},
+				{"name" : "拉杆包"},
+				{"name" : "拉杆箱"}
+			]
+		}
+	],
+	"data2" : [
+		{"news" : "夏品199减100，送演唱会票..."},
+		{"news" : "全球购英国馆上线，低至9.9元..."},
+		{"news" : "阅读指数帮您选好书好碟..."},
+		{"news" : "每日享折扣 京东品质游..."},
+		{"news" : "夏日炎炎，水果冰淇淋DIY..."}
+	],
+	"data3" :[
+		{
+			"prod" : "冲锋衣"
+		},
+		{
+			"prod" : "速干T恤"
+		},
+		{
+			"prod" : "速干裤"
+		},
+		{
+			"prod" : "溯溪鞋"
+		},
+		{
+			"prod" : "登山鞋"
+		},
+		{
+			"prod" : "潜水服"
+		}
+	],
+	"data4" :[
+		{
+			"title" : "运动鞋服",
+			"prod" :[
+				{"id" : 1, "img" : "/project3/images/_7240141.jpg","detal" : "/project3/images/detal.png","title":"步惊云运动鞋跑步鞋男鞋 2016夏季新款网布网面网鞋男透气休闲43.5码 S79095","price":348},
+				{"id" : 2, "img" : "/project3/images/_2234719.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX 透气休闲鞋气垫慢跑鞋 750   经典鞋  43码 S79194","price":828},
+				{"id" : 3, "img" : "/project3/images/_1796172.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX FLUX经典鞋  43.5码 S79194","price":698},
+				{"id" : 4, "img" : "/project3/images/_8158730.jpg","detal" : "/project3/images/detal.png","title":"新百伦领跑 运动休闲男鞋板鞋2016新款男士慢跑鞋nbllp574字帆布鞋  43.5码 S79194","price":268},
+				{"id" : 5, "img" : "/project3/images/_9863651.jpg","detal" : "/project3/images/detal.png","title":"回力 经典低帮情侣款男鞋女鞋布鞋WXY-45 中性帆布鞋 运动休闲鞋 43.5码 S79095","price":188},
+				{"id" : 6, "img" : "/project3/images/_4446896.jpg","detal" : "/project3/images/detal.png","title":"回力 经典低帮情侣款男鞋女鞋布鞋WXY-45 中性帆布鞋 运动休闲鞋 43.5码 S79095 S79096","price":58},
+				{"id" : 7, "img" : "/project3/images/_4434862.jpg","detal" : "/project3/images/detal.png","title":"回力 经典低帮情侣款男鞋女鞋布鞋WXY-45 中性帆布鞋 运动休闲鞋 43.5码 S79095 S79098","price":339},
+				{"id" : 8, "img" : "/project3/images/_8193670.jpg","detal" : "/project3/images/detal.png","title":"回力 经典低帮情侣款男鞋女鞋布鞋WXY-45 中性帆布鞋 运动休闲鞋 43.5码 S79095 S79096","price":48},
+				{"id" : 9, "img" : "/project3/images/_2234719.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX FLUX 经典鞋新款男士慢跑鞋 43.5码 S79095","price":828},
+				{"id" : 10, "img" : "/project3/images/_7240141.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX FLUX 经典鞋新款男士慢跑鞋 43.5码 S79095","price":349}
+			]
+		},
+		{
+			"title" : "户外生活",
+			"prod" :[
+				{"id" : 1, "img" : "/project3/images/_72664.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX FLUX 经典鞋 43.5码 S79095","price":339},
+				{"id" : 2, "img" : "/project3/images/_3988217.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX 750   经典鞋  43码 S79194","price":339},
+				{"id" : 3, "img" : "/project3/images/_7272320.jpg","detal" : "/project3/images/detal.png","title":"步惊云运动鞋跑步鞋男鞋2016夏季新款网布网面网鞋男透气休闲鞋气垫慢跑鞋","price":559},
+				{"id" : 4, "img" : "/project3/images/_8924902.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX FLUX 经典鞋 43.5码 S79095","price":489},
+				{"id" : 5, "img" : "/project3/images/_3138439.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX FLUX 经典鞋 43.5码 S79095","price":15},
+				{"id" : 6, "img" : "/project3/images/_161294.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX FLUX 经典鞋 43.5码 S79095","price":45},
+				{"id" : 7, "img" : "/project3/images/_6596668.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX FLUX 经典鞋 43.5码 S79095","price":19.9},
+				{"id" : 8, "img" : "/project3/images/_5994270.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX FLUX 经典鞋 43.5码 S79095","price":15},
+				{"id" : 9, "img" : "/project3/images/_2905400.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX FLUX 经典鞋 43.5码 S79095","price":599},
+				{"id" : 10, "img" : "/project3/images/_5593216.jpg","detal" : "/project3/images/detal.png","title":"阿迪达斯ADIDAS三叶草 2016春季 男子系列ZX FLUX 经典鞋 43.5码 S79095","price":489}
+			]
+		},
+		{
+			"title" : "健身体育",
+			"prod" :[
+				{"id" : 1, "img" : "/project3/images/_4102549.png","detal" : "/project3/images/detal.png","title":"王爵跑步机WJ-ER08家用款电动多功能静音折叠迷你运动健身 单功能","price":998},
+				{"id" : 2, "img" : "/project3/images/_3101399.jpg","detal" : "/project3/images/detal.png","title":"英国锐步Reebok跑步机 家用静音折叠 ZRK1 英国锐步Reebok跑步机 家用静音折叠 ZRK1","price":3999},
+				{"id" : 3, "img" : "/project3/images/_897370.jpg","detal" : "/project3/images/detal.png","title":"王爵跑步机WJ-ER08家用款电动多功能静音折叠迷你运动健身 单功能","price":2499},
+				{"id" : 4, "img" : "/project3/images/_5132353.jpg","detal" : "/project3/images/detal.png","title":"王爵跑步机WJ-ER08家用款电动多功能静音折叠迷你运动健身 单功能","price":2499},
+				{"id" : 5, "img" : "/project3/images/_8732936.jpg","detal" : "/project3/images/detal.png","title":"英国锐步Reebok跑步机 家用静音折叠 ZRK1 英国锐步Reebok跑步机 家用静音折叠 ZRK1","price":129},
+				{"id" : 6, "img" : "/project3/images/_7841135.jpg","detal" : "/project3/images/detal.png","title":"王爵跑步机WJ-ER08家用款电动多功能静音折叠迷你运动健身 单功能","price":259},
+				{"id" : 7, "img" : "/project3/images/_9425208.jpg","detal" : "/project3/images/detal.png","title":"英国锐步Reebok跑步机 家用静音折叠 ZRK1 英国锐步Reebok跑步机 家用静音折叠 ZRK1","price":55},
+				{"id" : 8, "img" : "/project3/images/_4038660.jpg","detal" : "/project3/images/detal.png","title":"王爵跑步机WJ-ER08家用款电动多功能静音折叠迷你运动健身 单功能","price":259},
+				{"id" : 9, "img" : "/project3/images/_3101399.jpg","detal" : "/project3/images/detal.png","title":"英国锐步Reebok跑步机 家用静音折叠 ZRK1 英国锐步Reebok跑步机 家用静音折叠 ZRK1","price":3999},
+				{"id" : 10, "img" : "/project3/images/_4102549.png","detal" : "/project3/images/detal.png","title":"王爵跑步机WJ-ER08家用款电动多功能静音折叠迷你运动健身 单功能","price":2499}
+			]
+		},
+		{
+			"title" : "骑行运动",
+			"prod" :[
+				{"id" : 1, "img" : "/project3/images/_2123726.jpg","detal" : "/project3/images/detal.png","title":"凤凰自行车 21/24 速禧玛诺变速 男 女 款铝合金车架  双碟刹山地车","price":599},
+				{"id" : 2, "img" : "/project3/images/_3473929.jpg","detal" : "/project3/images/detal.png","title":"凤凰自行车 21/24 速禧玛诺变速 男 女 款铝合金车架  双碟刹山地车","price":989},
+				{"id" : 3, "img" : "/project3/images/_6592799.jpg","detal" : "/project3/images/detal.png","title":"永久27速 山地自行车 26寸铝合金车架 / 培林花鼓、轴承中轴 双碟刹 A2","price":699},
+				{"id" : 4, "img" : "/project3/images/_7482042.jpg","detal" : "/project3/images/detal.png","title":"凤凰自行车 21/24 速禧玛诺变速 男 女 款铝合金车架  双碟刹山地车","price":698},
+				{"id" : 5, "img" : "/project3/images/_7735745.jpg","detal" : "/project3/images/detal.png","title":"永久27速 山地自行车 26寸铝合金车架 / 培林花鼓、轴承中轴 双碟刹 A2","price":638},
+				{"id" : 6, "img" : "/project3/images/_9574551.jpg","detal" : "/project3/images/detal.png","title":"凤凰自行车 21/24 速禧玛诺变速 男 女 款铝合金车架  双碟刹山地车","price":558},
+				{"id" : 7, "img" : "/project3/images/_7647831.jpg","detal" : "/project3/images/detal.png","title":"永久27速 山地自行车 26寸铝合金车架 / 培林花鼓、轴承中轴 双碟刹 A2","price":488},
+				{"id" : 8, "img" : "/project3/images/_943073.jpg","detal" : "/project3/images/detal.png","title":"凤凰自行车 21/24 速禧玛诺变速 男 女 款铝合金车架  双碟刹山地车","price":698},
+				{"id" : 9, "img" : "/project3/images/_7735745.jpg","detal" : "/project3/images/detal.png","title":"永久27速 山地自行车 26寸铝合金车架 / 培林花鼓、轴承中轴 双碟刹 A2","price":998},
+				{"id" : 10, "img" : "/project3/images/_7482042.jpg","detal" : "/project3/images/detal.png","title":"凤凰自行车 21/24 速禧玛诺变速 男 女 款铝合金车架  双碟刹山地车","price":369}
+			]
+		}
+	]
+}
